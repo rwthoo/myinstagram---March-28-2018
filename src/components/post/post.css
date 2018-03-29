@@ -1,0 +1,25 @@
+.post {
+  border: 1px solid grey;
+  border-radius: 15px;
+  width:250px;
+  height: auto;
+  float: left;
+  margin: 10px 20px;
+  text-align: center;
+  overflow: hidden;
+
+}
+.post_header{
+  font-weight: bold;
+  padding: 5px;
+}
+.post_header,.post_comments{
+  padding: 10px 0px 25px 0px;
+  background-color:rgba(0, 102, 102, 0.5);
+}
+
+
+.post_img{
+  width:100%;
+  height:150px;
+}

@@ -1,0 +1,29 @@
+.banner__image{
+  width:auto;
+  height: 140px;
+  background-image: url("http://vets.myvetstore.ca/wp-content/uploads/2013/01/Pet-Banner.jpg");
+  opacity: 0.6;
+  background-size:50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -28px;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  top: 50px;
+  color:rgba(0, 102, 102);
+}
+
+.timeline__post-container{
+  width:auto;
+  margin:10px 20px;
+
+}
+
+.timeline__post{
+  margin:10px 0;
+}
